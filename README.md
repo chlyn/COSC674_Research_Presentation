@@ -5,7 +5,7 @@ This project demonstrates a live comparison between YOLO and Faster R-CNN using 
 ### Course Information
 **By:** Chenilyn Joy Espineda & Dayana Ferrufino <br>
 **Course:** COSC 674-101<br>
-**Instructor:** Dr. Appolo Tankeh
+**Instructor:** Dr. Md Kamruzzaman Sarker
 
 <br>
 
