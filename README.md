@@ -29,7 +29,7 @@ This project demonstrates a live comparison between YOLO and Faster R-CNN using 
 Run the following to download the project from GitHub to your local machine:
 ```bash
 git clone https://github.com/chlyn/COSC674_Research_Presentation.git
-cd COSC474_Research_Presentation
+cd COSC674_Research_Presentation
 ```
 
 <br>
